@@ -1,6 +1,6 @@
 BOAS VINDAS AO MEU PERFIL!!
 
-meu nome e Danilo Santos
+Meu nome e Danilo Santos
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
